@@ -24,7 +24,7 @@ Making the website! Within less than 22 hours we built a minimum viable product 
 
 ## What we learned
 
-Making API calls using pure JavaScript.
+Making API calls using fetch in JavaScript.
 
 ## What's next for QuickCheck
 
